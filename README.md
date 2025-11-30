@@ -1,0 +1,2 @@
+# FET312_23040301064_GYMPT_4
+FET312 Derin Öğrenme Projesi
